@@ -28,9 +28,9 @@ puts less_puppies(4)
 
 def some_puppies(n, m)
   if n > m%2
-    "Good job, Rachel!" 
-  else 
     "Get back to your animal goals!"
+  else 
+     "Good job, Rachel!"
   end
 end
 
