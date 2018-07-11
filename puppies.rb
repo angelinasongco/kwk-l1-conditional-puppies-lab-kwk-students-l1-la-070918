@@ -41,7 +41,7 @@ puts some_puppies(2, 6)
 
 def both_animals(d, c)
   if c == 0 && d == 0 
-    "Good job!"
+    "Get back to your animal goals!"
   else 
     "Get back to your animal goals!"
   end
